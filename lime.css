@@ -1,0 +1,131 @@
+body{
+    font-family: 'Ubuntu';font-size: 15px;
+    color: white;
+    background-image: url(background.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+
+}
+.quadrato{
+  height: 600px;
+  }
+.quadrato.principale{
+  width: 65%;
+  background-color: #00000073;
+  margin: auto;
+  margin-top: 2%;
+  border-radius: 30px;
+}
+.quadrato.secondario{
+  width: 85%;
+  background-color: #00000000;
+  margin: auto;
+  margin-top: 2%;
+}
+div>img{
+  display: inline-block;
+  margin: 3%;
+  width: 20%;
+  position: relative;
+  left: 35%;
+}
+.barra.dati{
+  background-color: #21d313;
+  border-color: #21d313;
+  border-style: solid;
+  border-width: 6px;
+  text-align: center;
+}
+.Bottone{
+  text-align: center;
+}
+#primo{
+ font-size: 25px;
+ text-align: center;
+ color: #21d313;
+ margin: auto;
+}
+
+.barra.lunga{
+  background-color: #f5b453;
+  border-color: #f5b453;
+  border-style: solid;
+  border-width: 12px;
+  border-radius: 5px;
+  width: 30%;
+}
+.barra.mediana{
+  background-color: #21d313;
+  border-color: #21d313;
+  border-style: solid;
+  border-width: 12px;
+  border-radius: 5px;
+  width: 70%;
+}
+.barra.piccola{
+  background-color: #be4141;
+  border-color: #be4141;
+  border-style: solid;
+  border-width: 12px;
+  border-radius: 5px;
+  width: 10%;
+}
+.Opzioni{
+  margin-top: 4%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  }
